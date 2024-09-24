@@ -1,1 +1,6 @@
-This repository contains a Machine Learning project of Predicting Prices of Real Estate houses. We have used Random Forest Regression model for training the dataset. 
+This repository contains a machine learning project focused on predicting real estate house prices using a Random Forest Regression model. The repository includes the following files:
+1. Attributes Information.txt - Contains detailed information about the features used in the dataset.
+2. data.csv - The raw dataset used for training and testing.
+3. Real_Estate.joblib - The saved Random Forest Regression model.
+4. Model Scores.txt - Includes the Root Mean Square Error (RMSE) scores for each model tested.
+5. The project aims to provide accurate price predictions based on real estate data.
